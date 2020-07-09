@@ -1,0 +1,230 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	background: 
+}
+body{
+	background: rgb(248,252,249) !important;
+}
+header .title{
+	color: #166086;
+}
+li{
+	list-style: none;
+	padding-bottom: 15px;
+}
+aside{
+	width: 4%;
+	height: auto;
+	background:white;
+	border-right: 1px solid #EAEEEB;
+}
+aside .fa{
+	color: #A5B7C5!important;
+}
+aside .fa-tasks{
+	color: #166086!important;
+}
+article{
+	width: 96%;
+	height: auto;
+
+
+}
+.placeicon{
+	font-family: fontawesome;
+}
+header img{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+header{
+	display: flex!important;
+	justify-content: space-between !important;
+	padding-right: 20px;
+	border-bottom: 0.5px solid #EAEEEB;
+}
+.title{
+	text-indent: 250px;
+}
+aside .fa{
+	font-size: 16px;
+	padding-bottom: 20px;
+}
+ aside ul{
+	margin-top: 80px !important;
+}
+
+
+.box{
+
+	display: flex;
+	
+	justify-content: space-evenly;
+	-webkit-box-shadow: 6px 5px 14px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 5px 14px -8px rgba(0,0,0,0.75);
+box-shadow: 6px 5px 14px -8px rgba(0,0,0,0.75);
+	
+}
+span.block{
+	display: block;
+	font-size: 11px;
+}
+.box .fa{
+	font-size: 29px;
+	
+}
+.box .fa-youtube-play{
+	color: red;
+}
+.fa-instagram{
+	
+padding: 2px;
+border-radius: ;
+color: white;
+background: #d6249f;
+background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  
+}
+ .fa-facebook-official{
+	color: #3b5998;
+}
+.fa-calendar{
+	font-size: 12px!important;
+	color: #4978C8;
+}
+.main_title{
+	font-weight: 600;
+	color: #002F54;
+	font-size: 15px;
+}
+.count{
+	color:#3b5998;
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.box{
+	margin: 19px 30px 10px 10px;
+	padding: 20px;
+}
+#main_one img{
+	width: 590px;
+	height: 330px;
+}
+.main_title{
+	color: #002F54;
+	padding-left: 17px;
+	font-weight: 700;
+}
+
+#video_info .header{
+	display: flex;
+	justify-content: space-between;
+}
+#video_info{
+	padding: 20px 10px;
+	background: #fff;
+	margin:10px 24px;
+}
+#video_info input{
+	border: 0.2px solid #C2C2C2;
+}
+.options{
+	display: flex;
+	padding-left: 140px;
+
+}
+.options span{
+	margin-right: 10px;
+}
+.option_icon .fa-th{
+	border-radius: 50%;
+	color: #49DCD2;
+	
+	padding: 5px;
+	-webkit-box-shadow: 6px 5px 14px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 5px 14px -8px rgba(0,0,0,0.75);
+box-shadow: 6px 5px 14px -8px rgba(0,0,0,0.75);
+
+}
+.options button{
+	-webkit-box-shadow: -1px 6px 14px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 6px 14px -8px rgba(0,0,0,0.75);
+box-shadow: -1px 6px 14px -8px rgba(0,0,0,0.75);
+
+width: 60px;
+}
+
+
+.card{
+	padding: 15px 20px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0px 0px 14px -5px rgba(165,173,161,1);
+-moz-box-shadow: 0px 0px 14px -5px rgba(165,173,161,1);
+box-shadow: 0px 0px 14px -5px rgba(165,173,161,1);
+border: none!important;
+}
+.card_icon{
+	font-size: 50px;
+}
+.card .fa-youtube-play{
+	color: red;
+}
+.card .head{
+	color: #1F4869;
+	font-weight: 600;
+}
+
+
+
+.card a{
+	margin: 15px auto 0;
+	border: 1px solid black;
+	max-width: 100px!important;
+	
+	text-align: center
+
+	}
+	.card .fb-btn{
+		color: white!important;
+		background: #0344B4!important;
+		border: none;
+
+	}
+	.card .ytbtn{
+		color: white!important;
+		background: #FF0000!important;
+		border: none;
+	}
+	.card .itbtn{
+		color: white!important;
+		background: ;
+		border: none;
+		background: #d6249f;
+background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+	}
+
+	
+	
+	th, td {
+  padding: 6px;
+}
+.cal{
+	color: #1689FF;
+}
+.clo{
+	color: rgb(253,79,137);
+}
+
+.cals{
+	background:rgba(22,137,255,0.3)
+}
+.clos{
+	background:rgba(253,79,137,.3);
+}
+input{
+	border: 0.1px solid grey;
+}
