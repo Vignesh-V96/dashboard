@@ -15,15 +15,15 @@ li{
 	padding-bottom: 15px;
 }
 aside{
-	
-	
-	min-width:5%; 
+	min-width:80px; 
 	padding: 5px;
-	
-	
 	height: auto;
 	background:white;
 	border-right: 1px solid #EAEEEB;
+}
+
+aside .fa-tasks{
+	font-size: 25px!important;
 }
 aside .fa{
 	color: #A5B7C5!important;
@@ -32,7 +32,7 @@ aside .fa-tasks{
 	color: #166086!important;
 }
 article{
-	width: 95%;
+	width:100%;
 	height: auto;
 
 
